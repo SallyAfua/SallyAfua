@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SallyAfua
 - 👀 I’m interested in Machine learning and Data Science Education for K-12 environments
 - 🌱 I’m currently learning how to make ML accessible to kids around the world
-- 💞️ I’m looking to collaborate on projects that aims at teaching young people how to understand the thinking behind AI, ML and Data Science
+- 💞️ I’m looking to collaborate on projects that aim at teaching young people how to understand the thinking behind AI, ML and Data Science
 - 📫 How to reach me use this email salomey@aims.edu.gh
 
 <!---
